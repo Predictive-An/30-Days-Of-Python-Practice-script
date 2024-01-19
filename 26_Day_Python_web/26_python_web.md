@@ -533,7 +533,7 @@ MarkupSafe==1.1.1
 Werkzeug==0.16.0
 (env) asabeneh@Asabeneh:~/Desktop/python_for_web$ touch requirements.txt
 (env) asabeneh@Asabeneh:~/Desktop/python_for_web$ pip freeze > requirements.txt
-(env) asabeneh@Asabeneh:~/Desktop/python_for_web$ cat requirements.txt
+(env) asabeneh@Asabeneh:~/Desktop/python_for_web$ p
 Click==7.0
 Flask==1.1.1
 itsdangerous==1.1.0
